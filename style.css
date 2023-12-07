@@ -21,7 +21,7 @@ body{
     z-index: 100;
 }
 .logo{
-    position: relative;
+    position:absolute;
     font-size: 25px;
     color: rgb(20, 11, 11);
     text-decoration: none;
